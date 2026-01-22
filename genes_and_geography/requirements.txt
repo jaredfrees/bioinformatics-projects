@@ -1,0 +1,6 @@
+numpy
+pysam
+scikit-learn
+pandas
+matplotlib
+altair
